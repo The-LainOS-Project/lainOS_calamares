@@ -2,7 +2,7 @@
      SPDX-License-Identifier: CC0-1.0
 -->
 
-# Calamares: Distribution-Independent Installer Framework
+# Calamares: Distribution-Independent Installer Framework - Custome LainOS Version
 ---------
 
 [![Current issue](https://img.shields.io/badge/issue-in_progress-FE9B48)](https://github.com/calamares/calamares/labels/hacking%3A%20in-progress)
